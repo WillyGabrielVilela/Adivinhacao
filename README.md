@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Desafio que consistia em  criar um "adivinhador" de números de 1 a 10
+Desafio que consistia em  criar um "adivinhador" de números de 0 a 10
 
 ## 🚀 Tecnologias
 
